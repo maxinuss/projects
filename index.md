@@ -1,6 +1,6 @@
 ## Some challenges that I made.
 
-Actually I have more than 14 years of experience with PHP and 3 year with NodeJs.
+I have more than 14 years of experience with PHP and 3 year with NodeJs.
 There is a list of challenges that I made:
 
 - PHP / Slim 3: [https://github.com/maxinuss/test-planets](https://github.com/maxinuss/test-planets)
