@@ -14,7 +14,6 @@ There is a list of challenges that I made:
 
 - NodeJs / Koa: [https://github.com/maxinuss/crawl_node_app](https://github.com/maxinuss/crawl_node_app)
 - NodeJS / Express: [https://github.com/maxinuss/node_agile](https://github.com/maxinuss/node_agile)
-- PHP / Slim 3: [https://github.com/maxinuss/test-poker](https://github.com/maxinuss/test-poker)
 - PHP / Slim 3: [https://github.com/maxinuss/bike-test-project](https://github.com/maxinuss/bike-test-project)
 
 ### Contact
