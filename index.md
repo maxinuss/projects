@@ -5,8 +5,12 @@ There is a list of challenges that I made:
 
 - PHP / Slim 3: [https://github.com/maxinuss/test-planets](https://github.com/maxinuss/test-planets)
 - PHP / Slim 3: [https://github.com/maxinuss/test-twitter](https://github.com/maxinuss/test-twitter)
-- NodeJs / Express: [https://github.com/maxinuss/test-products-node](https://github.com/maxinuss/test-products-node)
-- PHP / Slim 3:[https://github.com/maxinuss/test-products](https://github.com/maxinuss/test-products)
+
+- PHP / NodeJs Products CRUD:
+  - API PHP with Slim 3: [https://github.com/maxinuss/test-products](https://github.com/maxinuss/test-products)
+  - Worker Node with express: [https://github.com/maxinuss/test-products-node](https://github.com/maxinuss/test-products-node)
+  - Front: [https://github.com/maxinuss/test-products-front](https://github.com/maxinuss/test-products-front )
+
 - NodeJs / Koa: [https://github.com/maxinuss/crawl_node_app](https://github.com/maxinuss/crawl_node_app)
 - NodeJS / Express: [https://github.com/maxinuss/node_agile](https://github.com/maxinuss/node_agile)
 - PHP / Slim 3: [https://github.com/maxinuss/test-poker](https://github.com/maxinuss/test-poker)
