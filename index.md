@@ -1,6 +1,6 @@
 ## Some challenges that I made...
 
-There is a list of challenges that I made in the last years.
+There is a list of challenges that I made in the last years:
 
 - PHP / Slim 3: https://github.com/maxinuss/test-planets
 - PHP / Slim 3: https://github.com/maxinuss/test-twitter
