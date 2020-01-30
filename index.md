@@ -3,7 +3,7 @@
 I have more than 14 years of experience with PHP and 3 year with NodeJs.
 There is a list of challenges that I made:
 
-- Serverless / NodeJs / TypeScript: [https://github.com/maxinuss/serverless-app](https://github.com/maxinuss/serverless-app)
+- NodeJs / TypeScript / Serverless: [https://github.com/maxinuss/serverless-app](https://github.com/maxinuss/serverless-app)
 
 - PHP / Slim 3: [https://github.com/maxinuss/test-planets](https://github.com/maxinuss/test-planets)
 - PHP / Slim 3: [https://github.com/maxinuss/test-twitter](https://github.com/maxinuss/test-twitter)
