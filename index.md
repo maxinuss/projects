@@ -4,8 +4,9 @@ I have more than 14 years of experience with PHP and 3 year with NodeJs.
 There is a list of challenges that I made:
 
 - NodeJs / TypeScript / Serverless: [https://github.com/maxinuss/serverless-app](https://github.com/maxinuss/serverless-app)
-- NodeJs / Koa: [https://github.com/maxinuss/crawl_node_app](https://github.com/maxinuss/crawl_node_app)
-- NodeJS / Express: [https://github.com/maxinuss/node_agile](https://github.com/maxinuss/node_agile)
+- NodeJs: [https://github.com/maxinuss/hotel-location](https://github.com/maxinuss/hotel-location)
+
+- Python: [https://github.com/maxinuss/interview-calendar](https://github.com/maxinuss/interview-calendar)
 
 - PHP / Slim 3: [https://github.com/maxinuss/test-planets](https://github.com/maxinuss/test-planets)
 - PHP / Slim 3: [https://github.com/maxinuss/test-twitter](https://github.com/maxinuss/test-twitter)
